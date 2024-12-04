@@ -6,5 +6,5 @@ I've implemented many designs and functionality to my website.
 
 If you find that you like it, feel free to use it.
 
-Kind reggards,
-Cale-M
+Kind regards,
+Cale M
